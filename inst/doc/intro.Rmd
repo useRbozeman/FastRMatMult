@@ -1,0 +1,22 @@
+---
+title: "The package: Speeding up Computation in R"
+date: "`r Sys.Date()`"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{The curl package: a modern R interface to libcurl}
+  %\VignettePackage{JAScode}
+  %\VignetteEngine{knitr::rmarkdown}
+  \usepackage[utf8]{inputenc}
+---
+
+
+```{r, echo = FALSE, message = FALSE}
+knitr::opts_chunk$set(comment = "")
+library(JAScode)
+```
+
+The package provides details by example in how to access C libraries from R. 
+
+
+
+vignette("JAScode::intro")
