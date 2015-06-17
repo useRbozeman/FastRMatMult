@@ -1,6 +1,6 @@
 ---
-title: "The package: Speeding up Computation in R"
-date: "2015-06-11"
+title: "The package FastRMatMult: Speeding up Computation in R"
+date: "2015-06-12"
 output: rmarkdown::html_vignette
 vignette: >
   %\VignetteIndexEntry{The FastRMatMult package: Exploring Matrix Multiplication }
