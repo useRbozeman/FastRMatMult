@@ -8,7 +8,7 @@
 
 # sudo ldconfig /usr/local/cuda/lib64
 
- library(gputools)
+# library(gputools)
 
 library(FastRMatMult)
 library(compiler)
