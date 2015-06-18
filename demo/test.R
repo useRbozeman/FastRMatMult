@@ -27,8 +27,8 @@ system.time(c <- mat_mult_c(a,b))
 system.time(c <- a %*% b)
 
 # system.time(c <- gpuMatMult(a,b))
-
-
+# 
+# 
 # system.time(ainv <- solve(a))
 # system.time(ainv <- gpuSolve(a))
 # 
